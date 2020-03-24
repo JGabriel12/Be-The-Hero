@@ -4,28 +4,28 @@
 
 <img src=".GitHub\Readme.jpg">
 
-🚀 Technologies
+🚀 Technologies <br>
 This project was developed with the following technologies:
 
-Node.js
-React in coming 🚧
-React Native in coming 🚧
-Expo in coming 🚧
+Node. <br>
+React in coming 🚧 <br>
+React Native in coming 🚧 <br>
+Expo in coming 🚧 <br>
 
-💻 Project
+💻 Project <br>
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
-🔖 Layout
-🚧 In progress.. 🚧
+🔖 Layout <br>
+🚧 In progress.. 🚧 
 
-🤔 How to contribute
-Make a fork;
-Create a branck with your feature: git checkout -b my-feature;
-Commit changes: git commit -m 'feat: My new feature';
-Make a push to your branch: git push origin my-feature.
-After merging your receipt request to done, you can delete a branch from yours.
+🤔 How to contribute <br>
+Make a fork; <br>
+Create a branck with your feature: git checkout -b my-feature; <br>
+Commit changes: git commit -m 'feat: My new feature'; <br> 
+Make a push to your branch: git push origin my-feature. <br>
+After merging your receipt request to done, you can delete a branch from yours. <br>
 
-📝 License
+📝 License <br>
 This project is under the MIT license. See the LICENSE for details.
 
 Made with ♥ by João Gabriel Marinho 👋 Get in touch!
